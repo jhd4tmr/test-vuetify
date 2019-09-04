@@ -12,8 +12,8 @@
         <td>18</td>
       </tr>
       <tr>
-        <td>Lily</td>
-        <td>20</td>
+        <td><v-btn depressed small>Joe</v-btn></td>
+        <td>18</td>
       </tr>
     </tbody>
   </v-simple-table>

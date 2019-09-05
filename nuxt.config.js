@@ -46,6 +46,12 @@ export default {
   ** vuetify module configuration
   ** https://github.com/nuxt-community/vuetify-module
   */
+  vuetify: {
+    defaultAssets: {
+      font: false,
+      icons: false
+    }
+  },
   /*
   ** Build configuration
   */
